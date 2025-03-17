@@ -3,7 +3,7 @@
 # txt = input()
 # print(len(txt))
 
-# """doing it in one line"""
+# """version 2"""
 # print("please give us your text: ", end="")
 # txt = input()
 # print(len(txt.replace(" ", "")))
